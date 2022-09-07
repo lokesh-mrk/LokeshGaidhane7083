@@ -5,6 +5,7 @@ public class Calss4 {
         RollNo.put(1,'Lokesh');
         
         system.debug('RollNo list'+ RollNo);
+		syatem.debug ('');
     }
 
 }
